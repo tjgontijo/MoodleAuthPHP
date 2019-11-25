@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+    <!-- Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="#032d55">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#032d55">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#032d55">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
     <link rel="shortcut icon" href="//virtual.iscp.edu.br/pluginfile.php/1/theme_moove/favicon/1574420247/favicon.ico">
